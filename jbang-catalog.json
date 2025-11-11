@@ -2,7 +2,7 @@
   "catalogs": {},
   "aliases": {
     "h2": {
-      "script-ref": "com.h2database:h2:2.3.232",
+      "script-ref": "com.h2database:h2:2.4.240",
       "java-agents": []
     }
   },
